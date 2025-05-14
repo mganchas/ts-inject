@@ -1,6 +1,7 @@
 export {container} from './container';
 
-export {autowire, autowireFn} from './autowire';
+export {autowire} from './autowire';
+export {autowireFn} from './autowireFn';
 
 export type {
   Container,
